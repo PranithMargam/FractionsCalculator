@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/arm64-apple-macosx/debug/Fractions.build/master.swiftdeps"
+  },
+  "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/Sources/Fractions/Fractions.swift": {
+    "dependencies": "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/arm64-apple-macosx/debug/Fractions.build/Fractions.d",
+    "object": "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/arm64-apple-macosx/debug/Fractions.build/Fractions.swift.o",
+    "swiftmodule": "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/arm64-apple-macosx/debug/Fractions.build/Fractions~partial.swiftmodule",
+    "swift-dependencies": "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/arm64-apple-macosx/debug/Fractions.build/Fractions.swiftdeps"
+  },
+  "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/Sources/Fractions/main.swift": {
+    "dependencies": "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/arm64-apple-macosx/debug/Fractions.build/main.d",
+    "object": "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/arm64-apple-macosx/debug/Fractions.build/main.swift.o",
+    "swiftmodule": "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/arm64-apple-macosx/debug/Fractions.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/arm64-apple-macosx/debug/Fractions.build/main.swiftdeps"
+  }
+}

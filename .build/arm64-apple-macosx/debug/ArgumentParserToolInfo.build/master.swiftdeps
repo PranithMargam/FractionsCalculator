@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "6571eefc20614d92f7d4178ead960f1e9d5081dc1eb75d5dd8b80e80108df4b6"
+build_start_time: [1691867993, 590549945]
+build_end_time: [1691867993, 853991985]
+inputs:
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParserToolInfo/ToolInfo.swift"
+  : [1691867992, 839889526]

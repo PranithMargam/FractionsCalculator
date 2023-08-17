@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "78D8ADB6-23CD-483D-83AE-543260AB7B27"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49A24626-EFF4-4966-BB1E-701E4850E38C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Fractions/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "convertInputAndPerformCalculations(inputString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "49A24626-EFF4-4966-BB1E-701E4850E38C - a7882290d2d8dce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Fractions.FractionsCalulator.convertInputAndPerformCalculations(inputString: Swift.String) -&gt; Swift.Result&lt;(Fractions.MixedNumber, Swift.String), Fractions.InputFormateError&gt;"
+                  moduleName = "FractionsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/Sources/Fractions/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "198">
+               </Location>
+               <Location
+                  uuid = "49A24626-EFF4-4966-BB1E-701E4850E38C - 96f5ca0347e0ef16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Substring) -&gt; Swift.String in Fractions.FractionsCalulator.convertInputAndPerformCalculations(inputString: Swift.String) -&gt; Swift.Result&lt;(Fractions.MixedNumber, Swift.String), Fractions.InputFormateError&gt;"
+                  moduleName = "FractionsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/Sources/Fractions/main.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAD7F90D-0F8B-4375-AE51-53D1909EC84F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sources/Fractions/main.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "inputOperation(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

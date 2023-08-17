@@ -1,0 +1,4 @@
+module ArgumentParserToolInfo {
+    header "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/ArgumentParserToolInfo-Swift.h"
+    requires objc
+}

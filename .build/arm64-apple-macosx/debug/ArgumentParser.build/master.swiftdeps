@@ -1,0 +1,87 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "b735900263af95744ae17c6e7fdab3833a613bf55b909f5a137c7fec9d301dea"
+build_start_time: [1691867993, 900815010]
+build_end_time: [1691867997, 284976005]
+inputs:
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/BashCompletionsGenerator.swift"
+  : [1691867992, 824717521]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/CompletionsGenerator.swift"
+  : [1691867992, 824840068]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/FishCompletionsGenerator.swift"
+  : [1691867992, 824943780]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/ZshCompletionsGenerator.swift"
+  : [1691867992, 825058460]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Argument.swift"
+  : [1691867992, 835110902]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/ArgumentHelp.swift"
+  : [1691867992, 835223436]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/ArgumentVisibility.swift"
+  : [1691867992, 835309028]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/CompletionKind.swift"
+  : [1691867992, 835382938]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Errors.swift"
+  : [1691867992, 835466861]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Flag.swift"
+  : [1691867992, 835624217]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/NameSpecification.swift"
+  : [1691867992, 835741519]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Option.swift"
+  : [1691867992, 835902452]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/OptionGroup.swift"
+  : [1691867992, 836000442]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/AsyncParsableCommand.swift"
+  : [1691867992, 836167812]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/CommandConfiguration.swift"
+  : [1691867992, 836253643]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/EnumerableFlag.swift"
+  : [1691867992, 836330890]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ExpressibleByArgument.swift"
+  : [1691867992, 836409091]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableArguments.swift"
+  : [1691867992, 836514949]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableArgumentsValidation.swift"
+  : [1691867992, 836615562]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableCommand.swift"
+  : [1691867992, 836723327]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDecoder.swift"
+  : [1691867992, 836875438]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDefinition.swift"
+  : [1691867992, 836983203]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentSet.swift"
+  : [1691867992, 837164878]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/CommandParser.swift"
+  : [1691867992, 837344646]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/InputKey.swift"
+  : [1691867992, 837450981]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/InputOrigin.swift"
+  : [1691867992, 837558746]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Name.swift"
+  : [1691867992, 837647914]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Parsed.swift"
+  : [1691867992, 837733983]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParsedValues.swift"
+  : [1691867992, 837822675]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParserError.swift"
+  : [1691867992, 837897300]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/SplitArguments.swift"
+  : [1691867992, 838028430]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/DumpHelpGenerator.swift"
+  : [1691867992, 838175296]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpCommand.swift"
+  : [1691867992, 838269472]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpGenerator.swift"
+  : [1691867992, 838394165]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/MessageInfo.swift"
+  : [1691867992, 838482379]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/UsageGenerator.swift"
+  : [1691867992, 838595390]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/CollectionExtensions.swift"
+  : [1691867992, 838745594]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/Platform.swift"
+  : [1691867992, 838902473]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/SequenceExtensions.swift"
+  : [1691867992, 839037418]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/StringExtensions.swift"
+  : [1691867992, 839118480]
+  ? "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/Tree.swift"
+  : [1691867992, 839220046]

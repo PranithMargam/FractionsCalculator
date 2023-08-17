@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "26c19c79dad3640b895dd1e3299b5421873a8edd045f476e46c5ab1b314a4a56"
+build_start_time: [1692258086, 706880092]
+build_end_time: [1692258087, 59506893]
+inputs:
+  "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/Sources/Fractions/Fractions.swift": [1691952597, 720694541]
+  "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/Sources/Fractions/main.swift": [1692258082, 393865108]

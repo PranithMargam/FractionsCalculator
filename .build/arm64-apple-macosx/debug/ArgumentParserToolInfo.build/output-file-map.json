@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/master.swiftdeps"
+  },
+  "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/checkouts/swift-argument-parser/Sources/ArgumentParserToolInfo/ToolInfo.swift": {
+    "dependencies": "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/ToolInfo.d",
+    "object": "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/ToolInfo.swift.o",
+    "swiftmodule": "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/ToolInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/pranithmargam/Documents/Pranith/SwiftUI/Fractions/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/ToolInfo.swiftdeps"
+  }
+}
